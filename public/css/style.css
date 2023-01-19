@@ -1,0 +1,18 @@
+@import url(header.css);
+@import url(footer.css);
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto Thin', sans-serif;
+    font-family: 'Roboto Light', sans-serif;
+    font-family: 'Roboto Medium', sans-serif;
+    font-family: 'Roboto Black', sans-serif; */
+
+}
+
+body{
+    background-color: #bdbdbd;
+}

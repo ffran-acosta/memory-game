@@ -6,3 +6,8 @@ footer a{
     color: #fff;
     text-decoration: none;
 }
+
+footer i{
+    padding-bottom: 2rem;
+    font-size: 3rem;
+}

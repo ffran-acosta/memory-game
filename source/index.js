@@ -15,4 +15,4 @@ const statics = require("./modules/static");
 server.use(statics(join(__dirname, "../public")));
 
 //ROUTES
-server.use('/memoryGame', require('./routes/memoryGame.routes'))
+server.use('/memory-game', require('./routes/memoryGame.routes'))

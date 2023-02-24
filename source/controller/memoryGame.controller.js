@@ -3,7 +3,7 @@ const controller = {
         res.render("home/home")
     },
     exit: (req, res) => {
-        res.redirect("http://localhost:7000/")
+        res.redirect("https://ffran-acosta.up.railway.app/")
     }
 }
 
